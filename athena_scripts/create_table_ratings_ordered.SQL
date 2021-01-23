@@ -1,0 +1,1 @@
+select * from ratings_parquet order by userId, timestamp
